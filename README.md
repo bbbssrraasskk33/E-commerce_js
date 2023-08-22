@@ -2,7 +2,7 @@
 
 <h2> Used Technologies </h2>
 
-<h4> HTML-CSS-JAVASCRIPT </h4>
+<h4> HTML-CSS-JAVASCRIPT-API </h4>
 
 
 
